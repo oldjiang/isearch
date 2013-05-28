@@ -1,0 +1,4 @@
+isearch
+=======
+
+i-bei search
